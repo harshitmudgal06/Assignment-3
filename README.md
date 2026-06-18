@@ -7,7 +7,7 @@ This assignment contains basic Object-Oriented Programming (OOP) questions in Py
 Each question helps to practice core OOP concepts.
 
 # 📚 Questions with Concepts
-1. Student Class
+# 1. Student Class
 Concepts: Class, Object, Attributes
 Create a class named Student with attributes:
 name
@@ -15,7 +15,7 @@ age
 course
 Create an object and print all details.
 
-2. Car Class
+# 2. Car Class
 Concepts: Class, Multiple Objects
 Create a class named Car with attributes:
 brand
@@ -23,7 +23,7 @@ model
 price
 Create two objects and display their details.
 
-3. Employee Class
+# 3. Employee Class
 Concepts: Constructor (init), Initialization
 Create a class named Employee using constructor with:
 employee_id
@@ -31,20 +31,20 @@ name
 salary
 Print employee details.
 
-5. Rectangle Class
+# 4. Rectangle Class
 Concepts: Methods, Area Calculation
 Create a class named Rectangle with:
 length
 width
 Create a method to calculate area.
 
-5. Circle Class
+# 5. Circle Class
 Concepts: Methods, Formula Implementation
 Create a class named Circle with:
 radius
 Create a method to calculate area.
 
-7. BankAccount Class
+# 6. BankAccount Class
 Concepts: Encapsulation (basic), Methods, Data Update
 Create a class with:
 account_holder
@@ -54,12 +54,12 @@ deposit(amount)
 withdraw(amount)
 Show updated balance.
 
-7. Animal → Dog
+# 7. Animal → Dog
 Concepts: Inheritance, Method Overriding
 Create class Animal with method sound().
 Child class Dog overrides sound() and prints "Bark".
 
-8. Person → Student
+# 8. Person → Student
 Concepts: Inheritance, Parent-Child Class
 Create class Person:
 name
@@ -68,7 +68,7 @@ Child class Student:
 roll_number
 Display all details.
 
-9. Calculator Class
+# 9. Calculator Class
 Concepts: Methods, User Input Handling
 Create methods:
 add()
@@ -77,7 +77,7 @@ multiply()
 divide()
 Take two numbers and perform operations.
 
-10. LibraryBook Class
+# 10. LibraryBook Class
 Concepts: Class, Objects, Method Display
 Create class with:
 book_name
@@ -87,9 +87,15 @@ Create method to display book details. Create 3 objects.
 
 # 🧠 Concepts Covered
 Classes and Objects
+
 Constructors
+
 Methods
+
 Inheritance
+
 Method Overriding
+
 Encapsulation (basic)
+
 Real-world OOP examples
